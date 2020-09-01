@@ -10,11 +10,7 @@
 
 ### :wave: [Check out the *-next version of Unstated with an all new React Hooks API &rarr;](https://github.com/jamiebuilds/unstated-next)
 
-<font color=#FF7777 size=24>查看 `anna-next` ，发现 `Anna` 的最新组件及特性 &rarr;</font>
-
-<font color=#0099ff size=7 face="黑体">color=#0099ff size=72 face="黑体"</font>
-
-<span style="color: green"> Some green text </span>
+### :wave: [查看 `anna-next` ，发现 `Anna` 的最新组件及特性 &rarr;](https://github.com/jamiebuilds/unstated-next)
 
 ## Installation
 

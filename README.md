@@ -12,6 +12,8 @@
 
 <font color=#FF7777 size=24>查看 `anna-next` ，发现 `Anna` 的最新组件及特性 &rarr;</font>
 
+<font color=#0099ff size=7 face="黑体">color=#0099ff size=72 face="黑体"</font>
+
 ## Installation
 
 ```sh

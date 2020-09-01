@@ -10,7 +10,7 @@
 
 ### :wave: [Check out the *-next version of Unstated with an all new React Hooks API &rarr;](https://github.com/jamiebuilds/unstated-next)
 
-### $\color{#FF3030}{[Check out the *-next version of Unstated with an all new React Hooks API &rarr;](https://github.com/jamiebuilds/unstated-next)}$
+$\color{#FF3030}{[Check out the *-next version of Unstated with an all new React Hooks API &rarr;](https://github.com/jamiebuilds/unstated-next)}$
 
 ## Installation
 
